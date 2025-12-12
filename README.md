@@ -10,23 +10,23 @@ I enjoy building clean data pipelines, coding full-stack applications, and explo
 ---
 
 ## 🚀 Featured Projects
-### Music Energy Analytics (Data & Visualization Project)
+### 🎵 Music Energy Analytics (Data & Visualization Project)
 A full data-engineering and visualization pipeline analyzing ~10,000 songs from the Million Song Dataset. Includes preprocessing, predictive modeling, K-Means clustering, and a fully designed Tableau analytics dashboard.
 - Tech: Python, Pandas, Scikit-Learn, Tableau, Data Pipelines, Clustering, Predictive Modeling
 
-### Travel Itinerary Database
+### 🛄 Travel Itinerary Database
 A fully normalized SQL database designed with ER modeling, relational schemas, triggers, procedures, and advanced queries.
 - Tech: SQL, MySQL, ER Modeling
 
-### Scentopedia
+### 🧴 Scentopedia
 A full-stack fragrance discovery web app where users explore scents, save favorites, build wishlists, and search nearby stores.
 - Tech: React, TypeScript, Vite, Firebase, Firestore, Lucide
 
-### FitBuddy
+### 💪 FitBuddy
 A fitness social-matching app that connects users with potential workout partners based on goals and location.
 - Tech: Flutter, Dart, Firebase Auth, Firestore
 
-### Messenger
+### 💬 Messenger
 A real-time messaging application with secure authentication, message persistence, and custom UI.
 - Tech: Flutter, Dart, Firebase, Firestore
 
