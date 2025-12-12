@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Darius Richardson!
-
-### 🎓 B.S. in Computer Science — University of Texas at Tyler (Class of 2024)
-### 🎓 M.S. in Computer Science — Georgia Tech OMSCS (Class of 2027)
+### 🎓 B.S. in Computer Science — The University of Texas at Tyler (Class of 2024)
+### 🎓 M.S. in Computer Science — The Georgia Institute of Technology (Class of 2027)
 ### 📍 Based in Texas | Open to Remote, Hybrid, or Houston-Based Roles
 #### 🎯 Career Path: Data Engineer → AI/ML Engineer
 
@@ -10,25 +9,25 @@ I enjoy building clean data pipelines, coding full-stack applications, and explo
 ---
 
 ## 🚀 Featured Projects
-### 🎵 Music Energy Analytics (Data & Visualization Project)
+### 1. 🎵 Music Energy Analytics (Data & Visualization Project)
 A full data-engineering and visualization pipeline analyzing ~10,000 songs from the Million Song Dataset. Includes preprocessing, predictive modeling, K-Means clustering, and a fully designed Tableau analytics dashboard.
-- Tech: Python, Pandas, Scikit-Learn, Tableau, Data Pipelines, Clustering, Predictive Modeling
+#### _Tech: Python, Pandas, Scikit-Learn, Tableau, Data Pipelines, Clustering, Predictive Modeling_
 
-### 🛄 Travel Itinerary Database
+### 2. 🛄 Travel Itinerary Database
 A fully normalized SQL database designed with ER modeling, relational schemas, triggers, procedures, and advanced queries.
-- Tech: SQL, MySQL, ER Modeling
+#### _Tech: SQL, MySQL, ER Modeling_
 
-### 🧴 Scentopedia
+### 3. 🧴 Scentopedia
 A full-stack fragrance discovery web app where users explore scents, save favorites, build wishlists, and search nearby stores.
-- Tech: React, TypeScript, Vite, Firebase, Firestore, Lucide
+#### _Tech: React, TypeScript, Vite, Firebase, Firestore, Lucide_
 
-### 💪 FitBuddy
+### 4. 💪 FitBuddy
 A fitness social-matching app that connects users with potential workout partners based on goals and location.
-- Tech: Flutter, Dart, Firebase Auth, Firestore
+#### _Tech: Flutter, Dart, Firebase Auth, Firestore_
 
-### 💬 Messenger
+### 5. 💬 Messenger
 A real-time messaging application with secure authentication, message persistence, and custom UI.
-- Tech: Flutter, Dart, Firebase, Firestore
+#### _Tech: Flutter, Dart, Firebase, Firestore_
 
 ---
 
@@ -39,7 +38,7 @@ A real-time messaging application with secure authentication, message persistenc
   <!-- Languages -->
   <strong>Languages</strong><br>
   <img src="https://skillicons.dev/icons?i=python" height="32" /> Python &nbsp;
-  <img src="https://skillicons.dev/icons?i=sql" height="32" /> SQL &nbsp;
+  <img src="https://skillicons.dev/icons?i=postgres" height="32" /> SQL &nbsp;
   <img src="https://skillicons.dev/icons?i=typescript" height="32" /> TypeScript &nbsp;
   <img src="https://skillicons.dev/icons?i=java" height="32" /> Java &nbsp;
   <img src="https://skillicons.dev/icons?i=dart" height="32" /> Dart &nbsp;
